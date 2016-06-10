@@ -2,7 +2,7 @@
 title: "PA2_Template"
 author: "Satya"
 date: "June 9, 2016"
-output: html_document
+output: pdf_document
 ---
 
 
