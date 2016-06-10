@@ -2,12 +2,10 @@
 title: "PA2_Template"
 author: "Satya"
 date: "June 9, 2016"
-output: html_document
+output: pdf_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 #Reproducible Research Course Project 2
 
 Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.

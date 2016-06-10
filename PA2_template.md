@@ -39,30 +39,7 @@ Downloading Storm data file, cleaning data and selecting required columns
 
 ```r
 library(dplyr)
-```
-
-```
-## Warning: package 'dplyr' was built under R version 3.2.4
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
-```r
+ 
 Stormdat <- read.csv('Stormdata.csv.bz2', stringsAsFactors = F)
  
 
